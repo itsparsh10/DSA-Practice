@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sparshsharma/Documents/Full DSA /Apna College Series/Function/output/Q7.SumofnPrime'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5sumofi, symObjAddr: 0x0, symBinAddr: 0x100003C24, symSize: 0xB8 }
+  - { offsetInCU: 0x4479, offset: 0x4479, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0xE4, symBinAddr: 0x100003D08, symSize: 0x58 }
+  - { offsetInCU: 0x44B9, offset: 0x44B9, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x224, symBinAddr: 0x100003E48, symSize: 0x2C }
+  - { offsetInCU: 0x6E81, offset: 0x6E81, size: 0x8, addend: 0x0, symName: __Z5sumofi, symObjAddr: 0x0, symBinAddr: 0x100003C24, symSize: 0xB8 }
+  - { offsetInCU: 0x6FAE, offset: 0x6FAE, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0xB8, symBinAddr: 0x100003CDC, symSize: 0x2C }
+  - { offsetInCU: 0x6FE0, offset: 0x6FE0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x13C, symBinAddr: 0x100003D60, symSize: 0x5C }
+  - { offsetInCU: 0x7008, offset: 0x7008, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x198, symBinAddr: 0x100003DBC, symSize: 0x8C }
+  - { offsetInCU: 0x7074, offset: 0x7074, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x250, symBinAddr: 0x100003E74, symSize: 0x38 }
+...
